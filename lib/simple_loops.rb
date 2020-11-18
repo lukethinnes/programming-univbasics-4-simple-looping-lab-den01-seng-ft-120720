@@ -3,7 +3,7 @@ def loop_message_five_times(str)
   counter=1
   while counter < 1 do
       puts str
-      counter++
+      counter+=1
   end
 end
 
